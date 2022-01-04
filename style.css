@@ -1,6 +1,10 @@
 h1{
     color: blue;
 }
+h2{
+    color: red;
+}
 p{
-    background-color: blueviolet;
+    color: blueviolet;
+    font-size: 26px;
 }
